@@ -1,17 +1,23 @@
 ### $ whoami
 
-**雷宇轩 / Lei Yuxuan** - data-strategy AI product manager who ships his own code.
+**雷宇轩 / Lei Yuxuan**: data-strategy AI PM who also ships backend code.
 
-Health AI by day: data trustworthiness, scoring algorithms, LLM-as-judge eval systems.
-Open source by night: turning working engineering methodology into reusable Claude Code skills.
+I define the product and its metrics, then build the service behind them.
+The workflows that hold up in real work become open-source tools.
 
 🌐 **[plutolei.github.io](https://plutolei.github.io)** · 📮 YUXUAN032@e.ntu.edu.sg
 
-### $ ls ~/projects
+### $ ls ~/tools
 
-| repo | what it does |
+| I want to... | Start here |
 |---|---|
-| [paperbanana-skill](https://github.com/PlutoLei/paperbanana-skill) | publication-grade academic figures from a 5-agent generate-and-critique pipeline |
-| [TextMamba3D](https://github.com/PlutoLei/TextMamba3D) | text-guided 3D brain tumor segmentation on a unified Mamba backbone |
-| [goal-condition](https://github.com/PlutoLei/goal-condition) | compiles a task into a verifiable run contract for unattended agent execution |
-| [multi-source-paper-search](https://github.com/PlutoLei/multi-source-paper-search) | concurrent literature sweep across four scholarly sources, merged into one cited report |
+| Create scientific figures or editable slides | [paperbanana-skill](https://github.com/PlutoLei/paperbanana-skill) |
+| Search literature and combine findings with citations | [multi-source-paper-search](https://github.com/PlutoLei/multi-source-paper-search) |
+| Define an agent task with clear boundaries and completion evidence | [goal-condition](https://github.com/PlutoLei/goal-condition) |
+| Review a code change with multiple models | [parallel-review](https://github.com/PlutoLei/parallel-review) |
+
+### $ ls ~/research
+
+[TextMamba3D](https://github.com/PlutoLei/TextMamba3D): text-guided 3D brain tumor segmentation on a unified Mamba backbone.
+
+Bugs and feature requests go to each repository's Issues.
